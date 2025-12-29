@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThiWF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88398f0613bb403bc3429192f20e765be652d0e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThiWF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThiWF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

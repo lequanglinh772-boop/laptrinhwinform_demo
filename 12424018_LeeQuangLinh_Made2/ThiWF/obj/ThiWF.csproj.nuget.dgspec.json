@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\THWindowForm\\ThiWF\\ThiWF\\ThiWF.csproj": {}
+    "C:\\THWindowForm\\laptrinhwinform_demo\\12424018_LeeQuangLinh_Made2\\ThiWF\\ThiWF.csproj": {}
   },
   "projects": {
-    "C:\\THWindowForm\\ThiWF\\ThiWF\\ThiWF.csproj": {
+    "C:\\THWindowForm\\laptrinhwinform_demo\\12424018_LeeQuangLinh_Made2\\ThiWF\\ThiWF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\THWindowForm\\ThiWF\\ThiWF\\ThiWF.csproj",
+        "projectUniqueName": "C:\\THWindowForm\\laptrinhwinform_demo\\12424018_LeeQuangLinh_Made2\\ThiWF\\ThiWF.csproj",
         "projectName": "ThiWF",
-        "projectPath": "C:\\THWindowForm\\ThiWF\\ThiWF\\ThiWF.csproj",
+        "projectPath": "C:\\THWindowForm\\laptrinhwinform_demo\\12424018_LeeQuangLinh_Made2\\ThiWF\\ThiWF.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\THWindowForm\\ThiWF\\ThiWF\\obj\\",
+        "outputPath": "C:\\THWindowForm\\laptrinhwinform_demo\\12424018_LeeQuangLinh_Made2\\ThiWF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
